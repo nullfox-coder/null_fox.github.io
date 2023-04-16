@@ -1,0 +1,3 @@
+@import url('https://db.onlinewebfonts.com/c/cd0161509171ec0b9558c548d8e9c26d?family=Bank+Gothic');
+
+-gothic font
